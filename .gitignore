@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Data (not tracked — download from Zenodo/PAN)
+data_prepared/
+data_prepared.zip
+DATA/
+
+# Trained model weights (large binary files)
+models/
+*.pkl
+*.pt
+*.safetensors
+
+# Logs and outputs
+logs/
+test-output/
+tira-output/
+*.log
+
+# HuggingFace / SBERT cache
+sbert-cache/
+.cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store

@@ -1,0 +1,13 @@
+# Inference-only requirements for the Docker image.
+# torch is installed separately in the Dockerfile with the CUDA 12.1 wheel.
+# tensorboard and plotly are training/monitoring tools — not needed for predict.py.
+
+transformers>=4.40.0
+sentencepiece>=0.1.99
+protobuf>=3.20.0
+sentence-transformers>=2.7.0
+lightgbm>=4.3.0
+scikit-learn>=1.4.0
+numpy>=1.24.0
+scipy>=1.11.0
+tqdm>=4.66.0

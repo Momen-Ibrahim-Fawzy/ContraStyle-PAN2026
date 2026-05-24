@@ -1,0 +1,26 @@
+# Core ML
+torch>=2.1.0
+transformers>=4.40.0
+sentencepiece>=0.1.99
+protobuf>=3.20.0
+
+# Sentence embeddings (SBERT — for stylometric features)
+sentence-transformers>=2.7.0
+
+# Gradient boosting (classical model)
+lightgbm>=4.3.0
+
+# Sklearn utilities (F1, calibration)
+scikit-learn>=1.4.0
+
+# Data science basics
+numpy>=1.24.0
+scipy>=1.11.0
+tqdm>=4.66.0
+
+# Training logging & dashboard
+tensorboard>=2.13.0
+plotly>=5.18.0
+
+# Accelerated attention (optional; improves DeBERTa speed on modern GPUs)
+# flash-attn>=2.0.0   # uncomment if on A100/H100 with CUDA 12
