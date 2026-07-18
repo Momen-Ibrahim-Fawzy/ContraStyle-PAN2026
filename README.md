@@ -1,5 +1,7 @@
 # Team aimoment at PAN2026: Content-Agnostic Contrastive Stylometry for Multi-Author Writing Style Analysis
 
+<img src="aimoment.png" alt="Team aimoment logo" width="200"/>
+
 Official implementation of the **ContraStyle** system submitted to the
 [PAN 2026 Multi-Author Writing Style Analysis](https://pan.webis.de/clef26/pan26-web/style-change-detection.html)
 shared task at CLEF 2026.
@@ -190,11 +192,11 @@ If you use this code, please cite:
 
 ```bibtex
 @inproceedings{ibrahim:2026,
-  title     = {ContraStyle: Content-Agnostic Contrastive Stylometry for
-               Multi-Author Writing Style Analysis},
-  author    = {Ibrahim, Momen},
-  booktitle = {Working Notes of CLEF 2026},
-  year      = {2026}
+  author    = {Momen Ibrahim, Nagwa El-Makky and Marwan Torki},
+  title     = {Team aimoment at PAN2026: Content-Agnostic Contrastive Stylometry for Multi-Author Writing Style Analysis},
+  booktitle = {CLEF 2026 Working Notes},
+  year      = {2026},
+  publisher = {CEUR-WS.org},
 }
 ```
 
