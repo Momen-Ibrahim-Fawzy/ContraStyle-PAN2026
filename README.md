@@ -4,8 +4,7 @@ Official implementation of the **ContraStyle** system submitted to the
 [PAN 2026 Multi-Author Writing Style Analysis](https://pan.webis.de/clef26/pan26-web/style-change-detection.html)
 shared task at CLEF 2026.
 
-> **Paper:** *Team aimoment at PAN2026: Content-Agnostic Contrastive Stylometry for Multi-Author Writing Style Analysis<img width="1536" height="1024" alt="file_00000000be687243bbb9af3a6161aa71" src="https://github.com/user-attachments/assets/f09ef18a-6c47-4668-a9b5-dbc5d2175537" />
-*
+> **Paper:** *Team aimoment at PAN2026: Content-Agnostic Contrastive Stylometry for Multi-Author Writing Style Analysis*
 > Momen Ibrahim — Alexandria University
 > CLEF 2026 Working Notes *(link will be added upon publication)*
 
